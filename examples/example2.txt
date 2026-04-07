@@ -1,0 +1,9 @@
+#Удвоение числа(4)
+Double = R(Z, C(S, C(S, P<2,2>)))
+N0 = Z
+N1 = C(S, N0)
+N2 = C(S, N1)
+N3 = C(S, N2)
+N4 = C(S, N3)
+
+Result = C(Double, N4)
